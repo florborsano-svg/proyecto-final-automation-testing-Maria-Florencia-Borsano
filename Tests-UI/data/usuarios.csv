@@ -1,0 +1,3 @@
+usuario,password,debe_funcionar
+locked_out_user,secret_sauce,False
+standard_user,secret_sauce,True

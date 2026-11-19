@@ -1,0 +1,6 @@
+/__pycache__
+/.pytest_cache
+/tests/__pycache__
+/data/__pycache__
+/utils/__pycache__
+/pages/__pycache__

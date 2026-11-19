@@ -1,0 +1,14 @@
+18/11/2026 23:39:39 INFO - ====== WebDriver manager ======
+18/11/2026 23:39:40 INFO - Driver [C:\Users\MPF\.wdm\drivers\chromedriver\win64\157.0.8103.78\chromedriver-win64/chromedriver.exe] found in cache by browser version
+18/11/2026 23:39:41 INFO - Iniciando login con usuario: locked_out_user
+18/11/2026 23:39:41 INFO - Completando credenciales...
+18/11/2026 23:39:42 INFO - Verificando redireccion fallida con usuario incorrecto OK
+18/11/2026 23:39:42 INFO - Iniciando login con usuario: standard_user
+18/11/2026 23:39:42 INFO - Completando credenciales...
+18/11/2026 23:39:42 INFO - Verificando redireccion exitosa
+18/11/2026 23:39:42 INFO - Agregando producto: Sauce Labs Bike Light, y esta en la posicion 1 (comenzando desde 0), del inventario de productos de la web
+18/11/2026 23:39:43 INFO - Agregando producto: Test.allTheThings() T-Shirt (Red), y esta en la posicion 5 (comenzando desde 0), del inventario de productos de la web
+18/11/2026 23:39:43 INFO - Verificando contador de carrito: 2
+18/11/2026 23:39:43 INFO - Abriendo pagina de carrito
+18/11/2026 23:39:44 INFO - Completando datos para checkout
+18/11/2026 23:39:44 INFO - Finalizando compra

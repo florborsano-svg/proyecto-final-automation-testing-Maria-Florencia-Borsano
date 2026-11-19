@@ -1,0 +1,19 @@
+
+18/11/2026 23:14:26 INFO - test_get_publicaciones: Iniciando validación de estructura
+18/11/2026 23:14:26 INFO - test_get_publicaciones: Iniciando validación de datos
+18/11/2026 23:14:27 INFO - test_crear_publicacion: Iniciando validación de estructura
+18/11/2026 23:14:27 INFO - test_crear_publicacion: Iniciando validación de datos
+18/11/2026 23:14:27 INFO - test_obtener_segunda_publicacion: Iniciando validación de estructura
+18/11/2026 23:14:27 INFO - test_obtener_segunda_publicacion: Iniciando validación de datos
+18/11/2026 23:14:28 INFO - test_actualizar_primer_publicacion: Iniciando validación de estructura
+18/11/2026 23:14:28 INFO - test_actualizar_primer_publicacion: Iniciando validación de datos
+18/11/2026 23:14:28 INFO - test_eliminar_publicacion: Iniciando validación de estructura
+18/11/2026 23:14:28 INFO - test_datos_primer_usuario: Iniciando validación de estructura
+18/11/2026 23:14:28 INFO - test_datos_primer_usuario: Iniciando validación de datos
+18/11/2026 23:14:28 INFO - test_obtener_usuario_usando_check: Iniciando validación de estructura
+18/11/2026 23:14:28 INFO - test_obtener_usuario_usando_check: Iniciando validación de datos
+18/11/2026 23:14:29 INFO - test_obtener_usuario_usando_check: Iniciando validación de estructura
+18/11/2026 23:14:29 INFO - test_obtener_usuario_usando_check: Iniciando validación de datos
+18/11/2026 23:14:29 INFO - test_obtener_usuario_usando_check: Iniciando validación de estructura
+18/11/2026 23:14:29 INFO - test_obtener_usuario_usando_check: Iniciando validación de datos
+18/11/2026 23:14:29 INFO - test_obtener_endpoint_inexistente: Iniciando validación de status code
