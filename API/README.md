@@ -2,7 +2,7 @@
 
 Proyecto de automatización de pruebas sobre métodos HTTP (GET, POST, PUT, DELETE) desarrollado como proyecto final del curso de QA Automation.
 
-## API utilizada: https://jsonplaceholder.typicode.com
+## API utilizada: https://jsonplaceholder.typicode.com/posts y /users
 
 ## 🛠️ Tecnologías utilizadas
 * **Lenguaje:** Python 3.11+
